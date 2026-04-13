@@ -47,7 +47,6 @@
 - Backend con Python y diseño de API REST
 - Frontend dinámico con React
 
----
 
 #### [Testimonial CMS](https://github.com/juancastrop/testimonial-cms)
 > Sistema de gestión de testimonios con autenticación por roles, panel de administración y API pública embebible.
