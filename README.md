@@ -37,7 +37,17 @@
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Proyectos destacados
+
+#### [Proyecto Final](https://github.com/juancastrop/juan_castro-jenny_colla-Proyecto_Final)
+> Proyecto final desarrollado en equipo, aplicando arquitectura cliente–servidor, autenticación y consumo de APIs REST.
+
+- Desarrollo full stack en equipo (Juan Castro · Jeniffer Collazos)
+- Autenticación basada en JWT y control de acceso por roles
+- Backend con Python y diseño de API REST
+- Frontend dinámico con React
+
+---
 
 #### [Testimonial CMS](https://github.com/juancastrop/testimonial-cms)
 > Sistema de gestión de testimonios con autenticación por roles, panel de administración y API pública embebible.
