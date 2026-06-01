@@ -65,6 +65,7 @@
 - **Auth**: JWT con control de acceso por roles  
 - **Equipo**: Juan Castro · Jeniffer Collazos (arquitectura colaborativa)
 
+---
 
 ### 📊 Estadísticas
 
