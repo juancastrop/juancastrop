@@ -65,18 +65,6 @@
 - **Auth**: JWT con control de acceso por roles  
 - **Equipo**: Juan Castro · Jeniffer Collazos (arquitectura colaborativa)
 
----
-
-#### [Testimonial CMS](https://github.com/juancastrop/testimonial-cms)
-> Plataforma moderna de gestión y publicación de testimonios con panel administrativo y API embebible.
-
-- **Frontend**: Next.js 15 · React 19 · TypeScript 5 · Tailwind CSS 4
-- **Backend**: Node.js · API REST endpoints
-- **Data**: Prisma ORM · PostgreSQL (Neon serverless)
-- **Auth**: JWT con cookies, roles: `ADMIN`, `EDITOR`, `USER`
-- **Features**: embed responsive, integración YouTube, documentación de API, dashboard admin
-
----
 
 ### 📊 Estadísticas
 
